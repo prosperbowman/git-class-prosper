@@ -1,0 +1,76 @@
+table {
+    border: 1;
+}
+.firstelements {
+    color: black;
+    width: 2999px; 
+    height: 105px;
+    font-size: 30px;
+}
+.Coming {
+    background-color: #FED8B1;
+    font-size: 30px;
+}
+.Going {
+    background-color: #FFDF00;
+    font-size: 30px;
+}
+
+.secondelements {
+    color: black;
+    width: 2999px; 
+    height: 105px;
+    font-size: 30px;
+}
+.Gone {
+    color: black;
+    width: 2999px; 
+    height: 105px;
+    font-size: 30px;
+}
+.classical {
+    color: black;
+    width: 2999px; 
+    height: 105px;
+    font-size: 30px;
+}
+.function {
+    color: black;
+    width: 2999px; 
+    height: 105px;
+    font-size: 30px;
+}
+.perform {
+    color: black;
+    width: 2999px; 
+    height: 105px;
+    font-size: 30px;
+   
+}
+.group {
+    color: black;
+    width: 2999px; 
+    height: 430px;
+    font-size: 30px;
+}
+.hat {
+    color: black;
+    width: 2999px; 
+    height: 105px;
+    font-size: 30px;
+}
+.header {
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin: 100PX;
+    justify-content: left;
+    font-size: 50pX; 
+
+}
+
+html {
+    background-color: white;
+    margin: 10px;
+    
+}
